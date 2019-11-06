@@ -12,10 +12,12 @@ Manuscript submitted.
 Prerequisites for running pharmrf.sh (shell file):
 
 1. fpocket program: please follow the instructions to install Fpocket locally in your computer. 
-Manual: http://fpocket.sourceforge.net/manual_fpocket2.pdf
 
+Manual: http://fpocket.sourceforge.net/manual_fpocket2.pdf
 Download: https://sourceforge.net/projects/fpocket/files/fpocket-1.0/fpocket-src-1.0/
+
 2. PLIP (Protein Ligand Interaction Profiler): please follow the instructions to install PLIP locally in your computer. 
+
 Download and Instructions: https://github.com/ssalentin/plip
 
 Prerequisite for running WEKA Pharmrf.model (model file):
