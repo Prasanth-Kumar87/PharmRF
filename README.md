@@ -10,6 +10,7 @@ Publication:
 Manuscript submitted.
 
 Prerequisites for running pharmrf.sh (shell file):
+
 1. fpocket program: please follow the instructions to install Fpocket locally in your computer. 
 http://fpocket.sourceforge.net/manual_fpocket2.pdf
 https://sourceforge.net/projects/fpocket/files/fpocket-1.0/fpocket-src-1.0/
@@ -17,6 +18,7 @@ https://sourceforge.net/projects/fpocket/files/fpocket-1.0/fpocket-src-1.0/
 https://github.com/ssalentin/plip
 
 Prerequisite for running WEKA Pharmrf.model (model file):
+
 3. WEKA: Download and install Weka v3.8 (stable version) according to your OS and system architecture.
 https://www.cs.waikato.ac.nz/ml/weka/downloading.html
 
