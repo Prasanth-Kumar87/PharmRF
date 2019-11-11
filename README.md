@@ -1,5 +1,5 @@
 # PharmRF
-PharmRF is a new scoring function to choose the best crystal structure for pharmacophore-based virtual screening. 
+PharmRF is a new scoring function to choose the best crystal structures for pharmacophore-based virtual screening. 
 
 About PharmRFscoring function
 
