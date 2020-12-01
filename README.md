@@ -1,7 +1,7 @@
 # PharmRF
 PharmRF is a new scoring function to choose the best crystal structures for pharmacophore-based virtual screening. 
 
-About PharmRFscoring function
+PharmRFscoring function
 
 Structure-based pharmacophore models are often developed by selecting a single protein-ligand complex with good resolution and better binding affinity data which prevents the analysis of other structures having a similar potential to act as better templates. PharmRF is a pharmacophore-based scoring function for selecting the best crystal structures with the potential to attain high enrichment rates in pharmacophore-based virtual screening prospectively. The PharmRF scoring function is trained and tested on the PDBbind v2018 protein-ligand complex dataset and employs a random forest regressor to correlate protein pocket descriptors and ligand pharmacophoric elements with binding affinity. PharmRF score represents the calculated binding affinity which identifies high-affinity ligands by thorough pruning of all the PDB entries available for a particular protein of interest with a high PharmRF score. Ligands with high PharmRF scores can provide a better basis for structure-based pharmacophore enumerations with a better enrichment rate. Evaluated on 10 protein-ligand systems, PharmRF achieved superior performance (average success rate: 77.61 %, median success rate: 87.16 %) than experimental binding affinity (34.43 %, 29.16 %), and Vina docking score (75.47 %, 79.39 %). The PharmRF scoring model, scripts, and related resources can be accessed here.
 
