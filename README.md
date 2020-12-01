@@ -36,9 +36,9 @@ Manual and example sets:
 
 Please follow the manual and execute on example sets.
 
-https://youtu.be/oPy5NlDtP9g
+Video Demonstration
 
-[![IMAGE ALT TEXT](https://i.ibb.co/sw6YXwG/PharmRF.jpg)](https://youtu.be/oPy5NlDtP9g "PharmRF Demonstration")
+[![IMAGE ALT TEXT](https://i.ibb.co/Vmngg6Y/PharmRF.jpg)](https://youtu.be/oPy5NlDtP9g "PharmRF Demonstration")
 
 Authors:
 
