@@ -38,7 +38,7 @@ Please follow the manual and execute on example sets.
 
 https://youtu.be/oPy5NlDtP9g
 
-[![IMAGE ALT TEXT](https://ibb.co/Hzx89zs)](https://youtu.be/oPy5NlDtP9g "PharmRF Demonstration")
+[![IMAGE ALT TEXT](https://i.ibb.co/sw6YXwG/PharmRF.jpg)](https://youtu.be/oPy5NlDtP9g "PharmRF Demonstration")
 
 Authors:
 
