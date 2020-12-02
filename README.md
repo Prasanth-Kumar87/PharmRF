@@ -36,7 +36,9 @@ Manual and example sets:
 
 Please follow the manual and execute on example sets.
 
-Video Demonstration
+Video Demonstration:
+
+Click on this image for PharmRF demonstration (directs to YouTube)
 
 [![IMAGE ALT TEXT](https://i.ibb.co/Vmngg6Y/PharmRF.jpg)](https://youtu.be/oPy5NlDtP9g "PharmRF Demonstration")
 
