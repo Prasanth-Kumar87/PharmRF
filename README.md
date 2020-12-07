@@ -44,4 +44,4 @@ Click on this image for PharmRF demonstration (directs to YouTube)
 
 Developer
 
-Prasanth Kumar (prasanthbioinformatics[at]gmail.com
+Prasanth Kumar (prasanthbioinformatics[at]gmail.com)
