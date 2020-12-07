@@ -7,7 +7,7 @@ Structure-based pharmacophore models are often developed by selecting a single p
 
 Publication:
 
-Manuscript submitted.
+Kumar SP et al. (2020). PharmRF machine-learning scoring function to identify the best protein-ligand complexes for structure-based pharmacophore screening with high enrichments. Submitted.
 
 Prerequisites for running pharmrf.sh (shell file):
 
