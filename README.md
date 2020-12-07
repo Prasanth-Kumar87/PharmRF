@@ -42,6 +42,6 @@ Click on this image for PharmRF demonstration (directs to YouTube)
 
 [![IMAGE ALT TEXT](https://i.ibb.co/Vmngg6Y/PharmRF.jpg)](https://youtu.be/oPy5NlDtP9g "PharmRF Demonstration")
 
-Authors:
+Developer
 
-Sivakumar Prasanth Kumar, Chirag Patel, Rakesh Rawal and Himanshu Pandya
+Prasanth Kumar (prasanthbioinformatics[at]gmail.com
