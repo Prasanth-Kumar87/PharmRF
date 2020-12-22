@@ -28,7 +28,7 @@ https://www.cs.waikato.ac.nz/ml/weka/downloading.html
 
 Compilations:
 
-Linux and Ubuntu - fpocket v1.0 and PLIP v1.0
+Linux and Ubuntu - fpocket v3.0 and PLIP v1.4.4
 
 Any OS - Weka v3.8 (stable version)
 
