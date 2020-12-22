@@ -42,6 +42,8 @@ Click on this image for PharmRF demonstration (directs to YouTube)
 
 [![IMAGE ALT TEXT](https://i.ibb.co/Vmngg6Y/PharmRF.jpg)](https://youtu.be/oPy5NlDtP9g "PharmRF Demonstration")
 
+This video demonstration can be downloaded here: https://gofile.io/d/C6ooaX
+
 Developer
 
 Prasanth Kumar (prasanthbioinformatics[at]gmail.com)
