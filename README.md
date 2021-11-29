@@ -42,6 +42,6 @@ Video Demonstration:
 
 https://www.youtube.com/watch?v=oPy5NlDtP9g
 
-Developer
+Developer and Primary contact
 
 Prasanth Kumar (prasanthbioinformatics[at]gmail.com)
