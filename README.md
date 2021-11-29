@@ -23,7 +23,7 @@ Kumar SP et al. (2020). PharmRF machine-learning scoring function to identify th
 
       Download and Instructions: https://github.com/ssalentin/plip
 
-Prerequisite for running WEKA Pharmrf.model (model file):
+**Prerequisite for running WEKA Pharmrf.model (model file):**
 
 3. WEKA: Download and install Weka v3.8 (stable version) according to your OS and system architecture.
 https://www.cs.waikato.ac.nz/ml/weka/downloading.html
