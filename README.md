@@ -9,7 +9,7 @@ will gauge complexes with high enrichments comparatively. The PharmRF scoring fu
 
 **Publication:**
 
-Kumar SP et al. (2020). PharmRF machine-learning scoring function to identify the best protein-ligand complexes for structure-based pharmacophore screening with high enrichments. Journal of Computational Chemistry, Accepted for Publication.
+Kumar SP et al. (2020). PharmRF machine-learning scoring function to identify the best protein-ligand complexes for structure-based pharmacophore screening with high enrichments. Journal of Computational Chemistry, 10.1002/jcc.26840
 
 **Prerequisites for running pharmrf.sh (shell file):**
 
